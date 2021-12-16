@@ -1,0 +1,6 @@
+Answer the following:
+1.What are virtual reality systems? Describe the basic components of a typical virtual
+reality system with a neat diagram.
+2. List and explain the factors affecting the design of a virtual reality system.
+3. List and explain different types of virtual reality systems.
+4. Discuss the advantages and disadvantages of VR systems.
